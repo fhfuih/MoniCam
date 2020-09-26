@@ -1,3 +1,9 @@
+# MoniCam
+
+Product Demo accessible at [Our HKUST Personal Homepage](http://zhuangbi.student.ust.hk/monicam/).
+
+-----
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
